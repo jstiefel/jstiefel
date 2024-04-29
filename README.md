@@ -40,13 +40,13 @@ Some of my non-coding projects include building bicycles, crafting furniture or 
 ### 📈 GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-bice-nine-94.vercel.app/api?username=jstiefel&show=reviews&show_icons=true&theme=synthwave&hide_border=true&bg_color=0,2E215740,540D6E40,F6019D40&rank_icon=percentile&hide_rank=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-bice-nine-94.vercel.app/api?username=jstiefel&show=reviews&show_icons=true&theme=synthwave&hide_border=true&rank_icon=percentile&hide_rank=true&include_all_commits=true" />
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-bice-nine-94.vercel.app/api?username=jstiefel&show=reviews&show_icons=true&theme=default&hide_border=false&rank_icon=percentile&hide_rank=true&include_all_commits=true" />
   <img height=200 src="https://github-readme-stats-bice-nine-94.vercel.app/api?username=jstiefel&show=reviews&show_icons=true&theme=default&hide_border=false&rank_icon=percentile&hide_rank=true&include_all_commits=true" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-bice-nine-94.vercel.app/api/top-langs/?username=jstiefel&size_weight=0.5&count_weight=0.5&langs_count=6&theme=synthwave&hide_border=true&bg_color=0,2E215740,540D6E40,F6019D40&layout=compact&hide=jupyter%20notebook" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-bice-nine-94.vercel.app/api/top-langs/?username=jstiefel&size_weight=0.5&count_weight=0.5&langs_count=6&theme=synthwave&hide_border=true&layout=compact&hide=jupyter%20notebook" />
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-bice-nine-94.vercel.app/api/top-langs/?username=jstiefel&size_weight=0.5&count_weight=0.5&langs_count=6&theme=default&hide_border=false&layout=compact&hide=jupyter%20notebook" />
   <img height=200 src="https://github-readme-stats-bice-nine-94.vercel.app/api/top-langs/?username=jstiefel&size_weight=0.5&count_weight=0.5&langs_count=6&theme=default&hide_border=false&layout=compact&hide=jupyter%20notebook" />
 </picture>
