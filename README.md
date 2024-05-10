@@ -1,12 +1,12 @@
 ### ✨ About Me
 
-Hi there, I'm Julian Stiefel 👋
+Hey there, I'm Julian Stiefel! 👋
 
-I am a Robotics Engineer from Zurich, Switzerland, with 4+ years of experience developing medical software and leading technical projects at a medtech startup. I've graduated from ETH Zurich with a master's degree in Mechanical Engineering, focusing on Robotics. I used to work on multiple projects focusing on robotic perception of the environment, SLAM and kinematic control. I love writing complex algorithms and I mainly do this in C++ and Python.
+Based in Zurich, Switzerland, I'm a Robotics Engineer with over four years of experience in developing medical software and spearheading technical initiatives at a medtech startup. My journey includes earning a master's degree in Mechanical Engineering from ETH Zurich, where I focused on Robotics. My expertise revolves around projects focused on robotic perception of the environment, SLAM, and kinematic control, where I thrive in crafting intricate algorithms primarily using C++ and Python.
 
-I have a broad range of interests including robotics, software development, finance, law, literature, triathlon, photography, economy, craftsmanship and being on outdoor adventures. I find my balance by volunteering as a firefighter and contributing to different communities. I have a strong desire to acquire more experience in any area and I am constantly trying to improve myself.
+Beyond robotics and software development, my interests span a wide spectrum including finance, law, literature, triathlon, photography, economy, and craftsmanship, not to mention relishing outdoor adventures. To maintain balance, I dedicate time to volunteering as a firefighter and engaging with diverse communities, always eager to broaden my skill set and refine my abilities.
 
-Some of my non-coding projects include building bicycles, crafting furniture or decoration in my own workshop, building fun projects with microcontrollers and working on classic cars. These hands-on projects do not only help me to broaden my horizon, but also give me balance to my daily work.
+When I'm not coding, you'll find me immersed in hands-on projects such as building bicycles, crafting furniture or decorations in my workshop, tinkering with microcontrollers for fun projects, and restoring classic cars. These endeavors not only expand my horizons but also provide a refreshing counterbalance to my daily work routine.
 
 ### 🔗 Connect with Me
 
@@ -56,10 +56,10 @@ Some of my non-coding projects include building bicycles, crafting furniture or 
 <details>
   <summary><b>cad-percept - Precise robot localization in architectural 3D plans</b></summary>
   <br />
-  I contributed to this project by implementing algorithms for precise robot localization (SLAM) in inaccurate building models and the detection of building deviations between real-time data and mesh models. The pipeline uses the available 3D LiDAR point cloud data of a mobile robotic platform. The new method consistently outperforms the traditional ICP-based alignment, reducing localization errors by at least 30%.
+  In this project, my contributions centered on implementing cutting-edge algorithms for precise robot localization (SLAM) within imperfect building models, as well as detecting discrepancies between real-time data and mesh models. Leveraging 3D LiDAR point cloud data from a mobile robotic platform, our pipeline significantly surpassed traditional ICP-based alignment methods, consistently reducing localization errors by a minimum of 30%.
   <br />
   <br />
-  Special thanks goes to my talented supervisors @gawela and @hermannsblum for sharing their knowledge!
+  I extend my heartfelt gratitude to my accomplished supervisors, @gawela and @hermannsblum, whose invaluable guidance and expertise were instrumental in shaping this endeavor.
   <br />
   <br />
 
@@ -74,7 +74,10 @@ Some of my non-coding projects include building bicycles, crafting furniture or 
 <details>
   <summary><b>Remote magnetic navigation enables precision telesurgery</b></summary>
   <br />
-  At Nanoflex Robotics AG, I implemented and maintained the software stack and algorithms to control magnetic devices following ISO 13485 for the treatment of ischemic stroke. Recently, I was working on a field study to allow a surgeon to remotely control our system from any place in the world. I added the necessary features for remote control, data and video transmission using our pre-clinical system. The technology was successfully tested in a study executed together with the Mayo Clinic in Phoenix over a distance of more than 9000 km. A Round-Trip-Time of less than 200 ms was reached.
+  At Nanoflex Robotics AG, I spearheaded the implementation and upkeep of the software stack and algorithms crucial for steering magnetic devices in compliance with ISO 13485 standards, particularly for ischemic stroke treatment. A recent highlight involved orchestrating a field study aimed at enabling remote system control by surgeons from anywhere globally. This endeavor entailed integrating essential functionalities for remote control, as well as facilitating data and video transmission within our pre-clinical setup.
+  <br />
+  <br />
+  The culmination of our efforts materialized in a successful technology validation during a collaborative study with the Mayo Clinic in Phoenix, spanning a distance exceeding 9000 km. Notably, we achieved a remarkable Round-Trip-Time of under 200 ms, demonstrating the robustness and efficiency of our technology in real-world scenarios.
   <br />
   <br />
 
@@ -84,7 +87,7 @@ Some of my non-coding projects include building bicycles, crafting furniture or 
 <details>
   <summary><b>Control of magnetic fields using Mixed Reality</b></summary>
   <br />
-  With the release of the HoloLens 2, we had the idea to visualize magnetic fields and control our magnetic field generator using Mixed Reality. I implemented an application using Unity and MRTK. The application was then connected to our existing ROS framework and used with the HoloLens 2.
+  Inspired by the launch of HoloLens 2, we embarked on a groundbreaking venture to visualize magnetic fields and manipulate our magnetic field generator through Mixed Reality. Leveraging Unity and MRTK, I implemented an application that seamlessly integrated with our ROS framework and seamlessly operated with the HoloLens 2.
   <br />
   <br />
   <a href="#"><img src="assets/mr.jpg" width="600" /></a>
@@ -95,7 +98,7 @@ Some of my non-coding projects include building bicycles, crafting furniture or 
 <details>
   <summary><b>Real-time logging using InfluxDB and Grafana</b></summary>
   <br />
-  Industrial devices usually collect a large amount of sensor data. For critical remote infrastructure, this data should be monitored in real-time to react to issues before they lead to damage. In this project, I implemented a C++ hardware data logger. The data is sent to the real-time, time-series database InfluxDB. The data is then visualized in a Grafana dashboard.
+  In industrial settings, the accumulation of sensor data is commonplace. However, for remote infrastructure of critical importance, it's imperative to monitor this data in real-time to swiftly address potential issues before they escalate into damaging scenarios. In this particular project, I took the helm in developing a C++ hardware data logger tailored to this need. The collected data is seamlessly transmitted to the real-time, time-series database InfluxDB for storage, and subsequently visualized through a Grafana dashboard for intuitive monitoring and analysis.
   <br />
   <br />
   <a href="#"><img src="assets/grafana.jpg" width="600" /></a>
@@ -106,7 +109,7 @@ Some of my non-coding projects include building bicycles, crafting furniture or 
 <details>
   <summary><b>GUI development using Qt and Qml</b></summary>
   <br />
-  Although I'm not a user interface designer, I always enjoy creating a GUI once in a while. I designed and developed multiple GUIs for data collection and visualization, but also for device control. I usually use Qt and Qml to separate the design from the backend. In the case shown below, I used Snappy Ubuntu Core and released the complete software as a snap package for the embedded system.
+  While not primarily a user interface designer, I find pleasure in crafting GUIs from time to time. Over time, I've designed and developed numerous interfaces for tasks ranging from data collection and visualization to device control. My preferred toolkit for this endeavor is Qt and Qml, enabling me to efficiently separate design from backend functionality. In one notable instance showcased below, I leveraged Snappy Ubuntu Core to release the entire software package as a snap for seamless deployment on embedded systems.
   <br />
   <br />
   <a href="#"><img src="assets/qtqml.jpg" width="600" /></a>
@@ -117,7 +120,7 @@ Some of my non-coding projects include building bicycles, crafting furniture or 
 <details>
   <summary><b>Komoot BLE navigation</b></summary>
   <br />
-  The goal of this fun project was to create an inexpensive turn-by-turn-navigation device based on an ESP32 and Komoot's BLE Connect API. Back in 2018, navigation devices for cycling were sparse and expensive.
+  This exciting project aimed to develop a cost-effective turn-by-turn navigation device utilizing an ESP32 and Komoot's BLE Connect API. Stemming from the scarcity and high cost of cycling navigation devices in 2018, this endeavor sought to provide a budget-friendly alternative for cyclists.
   <br />
   <br />
 
@@ -131,7 +134,7 @@ Some of my non-coding projects include building bicycles, crafting furniture or 
 <details>
   <summary><b>Kinematic control of a 5-DoF intravitreal injection robot</b></summary>
   <br />
-  For the startup Ophthorobotics AG, I developed the necessary software and electronics for the kinematic control of their five degree of freedom eye injection robot. As part of this project, I developed several device driver libraries, e.g. for Thorlabs and Maxon. I used inverse kinematics computations to control the end-effector and created a Qt GUI for easier user interaction.
+  At Ophthorobotics AG, I played a pivotal role in the development of software and electronics essential for the kinematic control of their innovative five-degree-of-freedom eye injection robot. This involved crafting various device driver libraries, such as those for Thorlabs and Maxon, to ensure seamless integration and operation. Leveraging inverse kinematics computations, I orchestrated precise control of the end-effector, while also designing and implementing a user-friendly Qt GUI to streamline user interaction.
   <br />
   <br />
 </details>
