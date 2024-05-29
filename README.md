@@ -87,7 +87,7 @@ When I'm not coding, you'll find me immersed in hands-on projects such as buildi
 <details>
   <summary><b>Control of magnetic fields using Mixed Reality</b></summary>
   <br />
-  Inspired by the launch of HoloLens 2, we embarked on a groundbreaking venture to visualize magnetic fields and manipulate our magnetic field generator through Mixed Reality. Leveraging Unity and MRTK, I implemented an application that seamlessly integrated with our ROS framework and seamlessly operated with the HoloLens 2.
+  Inspired by the launch of HoloLens 2, we embarked on a groundbreaking venture to visualize magnetic fields and manipulate our magnetic field generator through Mixed Reality. Leveraging Unity and MRTK, I implemented an application that seamlessly integrated with our ROS framework and operated with the HoloLens 2.
   <br />
   <br />
   <a href="#"><img src="assets/mr.jpg" width="600" /></a>
@@ -98,7 +98,7 @@ When I'm not coding, you'll find me immersed in hands-on projects such as buildi
 <details>
   <summary><b>Real-time logging using InfluxDB and Grafana</b></summary>
   <br />
-  In industrial settings, the accumulation of sensor data is commonplace. However, for remote infrastructure of critical importance, it's imperative to monitor this data in real-time to swiftly address potential issues before they escalate into damaging scenarios. In this particular project, I took the helm in developing a C++ hardware data logger tailored to this need. The collected data is seamlessly transmitted to the real-time, time-series database InfluxDB for storage, and subsequently visualized through a Grafana dashboard for intuitive monitoring and analysis.
+  In industrial settings, the accumulation of sensor data is commonplace. However, for remote infrastructure of critical importance, it's imperative to monitor this data in real-time to swiftly address potential issues before they escalate into damaging scenarios. In this particular project, I took the helm in developing a C++ hardware data logger tailored to this need. The collected data is transmitted to the real-time, time-series database InfluxDB for storage, and subsequently visualized through a Grafana dashboard for intuitive monitoring and analysis.
   <br />
   <br />
   <a href="#"><img src="assets/grafana.jpg" width="600" /></a>
@@ -109,7 +109,7 @@ When I'm not coding, you'll find me immersed in hands-on projects such as buildi
 <details>
   <summary><b>GUI development using Qt and Qml</b></summary>
   <br />
-  While not primarily a user interface designer, I find pleasure in crafting GUIs from time to time. Over time, I've designed and developed numerous interfaces for tasks ranging from data collection and visualization to device control. My preferred toolkit for this endeavor is Qt and Qml, enabling me to efficiently separate design from backend functionality. In one notable instance showcased below, I leveraged Snappy Ubuntu Core to release the entire software package as a snap for seamless deployment on embedded systems.
+  While not primarily a user interface designer, I find pleasure in crafting GUIs from time to time. Over time, I've designed and developed numerous interfaces for tasks ranging from data collection and visualization to device control. My preferred toolkit for this endeavor is Qt and Qml, enabling me to efficiently separate design from backend functionality. In one notable instance showcased below, I leveraged Snappy Ubuntu Core to release the entire software package as a snap for deployment on embedded systems.
   <br />
   <br />
   <a href="#"><img src="assets/qtqml.jpg" width="600" /></a>
@@ -134,7 +134,7 @@ When I'm not coding, you'll find me immersed in hands-on projects such as buildi
 <details>
   <summary><b>Kinematic control of a 5-DoF intravitreal injection robot</b></summary>
   <br />
-  At Ophthorobotics AG, I played a pivotal role in the development of software and electronics essential for the kinematic control of their innovative five-degree-of-freedom eye injection robot. This involved crafting various device driver libraries, such as those for Thorlabs and Maxon, to ensure seamless integration and operation. Leveraging inverse kinematics computations, I orchestrated precise control of the end-effector, while also designing and implementing a user-friendly Qt GUI to streamline user interaction.
+  At Ophthorobotics AG, I played a pivotal role in the development of software and electronics essential for the kinematic control of their innovative five-degree-of-freedom eye injection robot. This involved crafting various device driver libraries, such as those for Thorlabs and Maxon, to allow operation. Leveraging inverse kinematics computations, I achieved precise control of the end-effector. Furthermore, I designed and implemented a user-friendly Qt GUI to enhance user interaction.
   <br />
   <br />
 </details>
