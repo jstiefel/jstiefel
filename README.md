@@ -2,7 +2,7 @@
 
 Hey there, I'm Julian Stiefel! 👋
 
-Based in Zurich, Switzerland, I'm a Robotics Engineer with over four years of experience in developing medical software and spearheading technical initiatives at a medtech startup. My journey includes earning a master's degree in Mechanical Engineering from ETH Zurich, where I focused on Robotics. My expertise revolves around projects focused on robotic perception of the environment, SLAM, and kinematic control, where I thrive in crafting intricate algorithms primarily using C++ and Python.
+Based in Zurich, Switzerland, I'm a Robotics Engineer with over four years of experience in developing medical software and spearheading technical initiatives at a medtech startup. My journey includes earning a master's degree in Mechanical Engineering from ETH Zurich, where I specialized in Robotics. My expertise revolves around projects focused on robotic perception of the environment, SLAM, and kinematic control, where I thrive in crafting intricate algorithms primarily using C++ and Python.
 
 Beyond robotics and software development, my interests span a wide spectrum including finance, law, literature, triathlon, photography, economy, and craftsmanship, not to mention relishing outdoor adventures. To maintain balance, I dedicate time to volunteering as a firefighter and engaging with diverse communities, always eager to broaden my skill set and refine my abilities.
 
